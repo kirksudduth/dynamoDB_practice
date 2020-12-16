@@ -1,0 +1,9 @@
+dynamoDBEnv/
+node_modules
+bower_components
+__pycache__
+*.pyc
+bin
+obj
+.vscode
+.dist

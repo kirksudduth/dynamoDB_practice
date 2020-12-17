@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "PutRequest": {
+      "Item": {
+        "userId": {
+          "N": "1"
+        },
+      "firstName": {
+        "S": "Krish"
+      },
+      "lastName": {
+        "S": "Lee"
+      },
+      "phoneNumber": {
+        "N": "123456"
+      },
+      "emailAddress": {
+        "S": "krish.lee@learningcontainer.com"}
+    }
+    }
+  },
+    {
+      "PutRequest": {
+        "Item": {
+        "userId": {
+          "N": "2"
+        },
+      "firstName": {
+        "S": "racks"
+      },
+      "lastName": {
+        "S": "jacson"},
+      "phoneNumber": {
+        "N": "123456"
+      },
+      "emailAddress": {
+        "S": "racks.jacson@learningcontainer.com"}
+    }
+    }},
+    {
+      "PutRequest":{
+      "Item": {
+        "userId": {
+        "N": "3"
+      },
+      "firstName": {
+        "S": "denial"
+      },
+      "lastName": {
+        "S": "roast"
+      },
+      "phoneNumber": {
+        "N":"33333333"
+      },
+      "emailAddress": {
+        "S": "denial.roast@learningcontainer.com"}
+    }}
+  },
+    {
+      "PutRequest": {
+        "Item": {
+        "userId": {
+          "N": "4"
+        },
+      "firstName": {
+        "S": "devid"},
+      "lastName": {
+        "S": "neo"},
+      "phoneNumber": {
+        "N": "222222222"},
+      "emailAddress": {
+        "S": "devid.neo@learningcontainer.com"}
+    }}
+  },
+    {
+      "PutRequest": {
+        "Item": {
+      "userId": {
+        "N": "5"
+      },
+      "firstName": {
+        "S": "jone"
+      },
+      "lastName": {
+        "S": "mac"
+      },
+      "phoneNumber": {
+        "N": "111111111"
+      },
+      "emailAddress": {
+        "S": "jone.mac@learningcontainer.com"
+      }
+    }
+  }
+  }
+  ]
+}
